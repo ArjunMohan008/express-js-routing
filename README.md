@@ -10,5 +10,5 @@ To get started with this code, simply clone this repository to your local machin
 
 Once you have cloned the repository, you can navigate to the project's root directory and install the necessary dependencies using npm:
 
-`cd <repository-name>
+`cd <express-js-routing>
 npm install`
